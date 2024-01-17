@@ -17,4 +17,3 @@ peso = float(input('Qual é o seu peso em kg: '))
 IMC = peso / (altura ** 2)
 IMC_arredondado = round(IMC, 1)
 print(IMC_arredondado)
-
