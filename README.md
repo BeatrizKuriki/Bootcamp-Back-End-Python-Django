@@ -46,11 +46,11 @@ Bootcamp Back-end Pyhton e Django</h1>
 <br>
 <h2 align="center"> :heavy_check_mark: Pessoas desenvolvedoras do projeto </h2>
 
-| <img src="https://github.com/BeatrizKuriki/SistemaEnvioDeEmail/blob/main/assets/beatrizdev.jpg" width=115><br><sub>Beatriz Alencar Kuriki</sub> | 
-| :---: |
 
-| <img src="https://avatars.githubusercontent.com/u/134309478?v=4" width=115><br><sub>Cíntia Brito</sub> | 
-| :---: |
+| [<img loading="lazy" src="https://github.com/BeatrizKuriki/SistemaEnvioDeEmail/blob/main/assets/beatrizdev.jpg" width=115><br><sub>Beatriz Alencar Kuriki</sub>](https://github.com/BeatrizKuriki) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/134309478?v=4" width=115><br><sub>Cíntia Brito</sub>](https://github.com/CinBrito) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/116613646?v=4" width=115><br><sub>Elaine Francine Santos</sub>](https://github.com/Laineflss)  |
+| :---: | :---: | :---: |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/141535641?v=4" width=115><br><sub>Liane Rafaelle</sub>](https://github.com/lianerafaelle) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/142627563?v=4" width=115><br><sub>Luana Ls</sub>](https://github.com/luana-ls) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/141366732?v=4" width=115><br><sub>Flavia Bilibio</sub>](https://github.com/flavia-bilibio)  |
 
-| <img src="https://avatars.githubusercontent.com/u/116613646?v=4" width=115><br><sub>Elaine Francine Santos</sub> | 
-| :---: |
+
+
+
