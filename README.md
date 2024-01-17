@@ -51,3 +51,6 @@ Bootcamp Back-end Pyhton e Django</h1>
 
 | <img src="https://avatars.githubusercontent.com/u/134309478?v=4" width=115><br><sub>Cíntia Brito</sub> | 
 | :---: |
+
+| <img src="https://avatars.githubusercontent.com/u/116613646?v=4" width=115><br><sub>Elaine Francine Santos</sub> | 
+| :---: |
