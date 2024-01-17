@@ -14,5 +14,7 @@ print("""
 altura = float(input('Qual é a sua Altura em cm: '))
 peso = float(input('Qual é o seu peso em kg: '))
 
-IMC = peso / (altura/100)**2
-print(IMC)
+IMC = peso / (altura ** 2)
+IMC_arredondado = round(IMC, 1)
+print(IMC_arredondado)
+
