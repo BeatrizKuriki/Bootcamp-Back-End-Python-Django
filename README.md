@@ -50,6 +50,8 @@ Bootcamp Back-end Pyhton e Django</h1>
 | [<img loading="lazy" src="https://github.com/BeatrizKuriki/SistemaEnvioDeEmail/blob/main/assets/beatrizdev.jpg" width=115><br><sub>Beatriz Alencar Kuriki</sub>](https://github.com/BeatrizKuriki) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/134309478?v=4" width=115><br><sub>Cíntia Brito</sub>](https://github.com/CinBrito) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/116613646?v=4" width=115><br><sub>Elaine Francine Santos</sub>](https://github.com/Laineflss)  |
 | :---: | :---: | :---: |
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/141535641?v=4" width=115><br><sub>Liane Rafaelle</sub>](https://github.com/lianerafaelle) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/142627563?v=4" width=115><br><sub>Luana Ls</sub>](https://github.com/luana-ls) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/141366732?v=4" width=115><br><sub>Flavia Bilibio</sub>](https://github.com/flavia-bilibio)  |
+| [<img loading="lazy" src="" width=115><br><sub>Liane Rafaelle</sub>](https://github.com/lianerafaelle) |  [<img loading="lazy" src="" width=115><br><sub>Luana</sub>]() |  [<img loading="lazy" src="" width=115><br><sub>Flavia</sub>]()  |
+| [<img loading="lazy" src="" width=115><br><sub>Liane</sub>]() |  
 
 
 
