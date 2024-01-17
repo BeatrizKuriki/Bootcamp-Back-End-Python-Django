@@ -48,3 +48,6 @@ Bootcamp Back-end Pyhton e Django</h1>
 
 | <img src="https://github.com/BeatrizKuriki/SistemaEnvioDeEmail/blob/main/assets/beatrizdev.jpg" width=115><br><sub>Beatriz Alencar Kuriki</sub> | 
 | :---: |
+
+| <img src="https://avatars.githubusercontent.com/u/134309478?v=4" width=115><br><sub>Cíntia Brito</sub> | 
+| :---: |
