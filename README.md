@@ -22,6 +22,7 @@ Bootcamp Back-end Pyhton e Django</h1>
 <br>
 <h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
 <p>Com esse projeto utilizamos conceitos básicos de Python como: </p>
+
 - ``Variáveis``
 - ``Operações Matemáticas``
 - ``Formatação de mensagens``
