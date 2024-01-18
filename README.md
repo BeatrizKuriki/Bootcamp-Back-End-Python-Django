@@ -26,6 +26,10 @@ Bootcamp Back-end Pyhton e Django</h1>
 - ``Variáveis``
 - ``Operações Matemáticas``
 - ``Formatação de mensagens``
+-  ``Funções``
+- ``Listas, Tuplas e Dicionários``
+-  ``Estruturas de Repetição``
+
 
 
 <br>
