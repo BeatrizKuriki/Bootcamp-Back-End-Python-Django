@@ -54,7 +54,7 @@ Bootcamp Back-end Pyhton e Django</h1>
 | :---: | :---: | :---: |
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/141535641?v=4" width=115><br><sub>Liane Rafaelle</sub>](https://github.com/lianerafaelle) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/142627563?v=4" width=115><br><sub>Luana Ls</sub>](https://github.com/luana-ls) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/141366732?v=4" width=115><br><sub>Flavia Bilibio</sub>](https://github.com/flavia-bilibio)  |
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/53124488?v=4" width=115><br><sub>Dayana Ferreira</sub>](https://github.com/Dayanaferrer) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/109596998?v=4" width=115><br><sub>Valeria Cabral</sub>](https://github.com/valeriacabral) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/119159053?v=4" width=115><br><sub>Aline Sgiers</sub>](https://github.com/asgiers) |
-[<img loading="lazy" src="https://avatars.githubusercontent.com/u/74688759?v=4" width=115><br><sub>Karoline Meira</sub>](https://github.com/KNMeira) |  
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/74688759?v=4" width=115><br><sub>Karolina Meira</sub>](https://github.com/KNMeira) |  
 
 
 
