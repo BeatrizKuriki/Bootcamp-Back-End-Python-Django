@@ -11,6 +11,6 @@ def conta_vogais(texto):
     return len(vogais_encontradas)
 
 frase = input('Digite seu texto aqui:')
-print("Total de vogais:", conta_vogais(frase))
+print("Total de vogais do texto é de :", conta_vogais(frase))
 
 
