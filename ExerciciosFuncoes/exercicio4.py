@@ -18,5 +18,7 @@ def conversor_de_moeda(carteira):
     franco_suico = carteira / 0.42
     euro = carteira / 5.36
     libraesterlina = carteira / 6.21
+    
+    print(f'Com o valor disponível na sua carteira, você poderia comprar {dolar_americano:.2f} dolares americanos, ou {peso_argentino:.2f} pesos argentinos, ou {dolar_australiano:.2f} dolares australianos, ou {dolar_canadense:.2f} dolares canadenses, ou {franco_suico:.2f} francos suiços, ou {euro:.2f} euros, ou {libraesterlina:.2f} libraesterlinas');
 
-    print(f'Com o valor disponível na sua carteira, você poderia comprar {dolar_americano:.2f} dolares americanos, ou {peso_argentino:.2f} pesos argentinos, ou {dolar_australiano:.2f} dolares australianos, ou {dolar_canadense:.2f} dolares canadenses, ou {franco_suico:.2f} francos suiços, ou {euro:.2f} euros, ou {libraesterlina:.2f} libraesterlinas')
+conversor_de_moeda(carteira)
