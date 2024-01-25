@@ -6,8 +6,7 @@ Bootcamp Back-end Pyhton e Django</h1>
 
 <br>
 
-<p>Imagem 1: Desktop</p>
-<p align="center"><img src="" width:1000></p>
+
 
 <br>
 <h2 align="center">:hourglass: Status do projeto </h2>
